@@ -347,3 +347,48 @@ flowchart TD
     J --> K[MOSTRAR: 'Peor promedio: ' + peor.nombre + ',' + peor.promedio]
     K --> L([FIN])
 ```
+
+## Documento de diseño
+
+### Lista (List)
+
+Una lista es una estructura dinámica que permite almacenar múltiples elementos ordenados, por ejemplo: 8, 9, 7, 10, 6.
+
+Se utiliza ya que no se sabe cuántos estudiantes se registrarán, por lo que los datos deben agregarse dinámicamente. Esta estructura es útil porque:
+
+Crece automáticamente.
+Permite recorrer los datos fácilmente.
+Facilita el almacenamiento de información relacionada.
+
+### Diccionario (Dictionary)
+
+Un diccionario es una estructura que relaciona una clave con un valor, similar a una tabla.
+
+Se utiliza porque cada estudiante tiene varios atributos diferentes, como:
+
+Nombre.
+Lista de calificaciones.
+Promedio.
+Estado de aprobación.
+
+Gracias al diccionario, es posible acceder rápidamente a la información de cada estudiante.
+
+### Funciones y módulos
+
+El programa utiliza distintas funciones. Una función es un bloque de código que realiza una tarea específica.
+
+También se utilizan módulos, los cuales agrupan funciones relacionadas. El pseudocódigo cuenta con cuatro módulos principales:
+
+Validación.
+Cálculo.
+Datos.
+Presentación.
+
+### Modulos
+
+La modularización ofrece varias ventajas:
+
+Hace que el psudocódigo sea más legible.
+Facilita el mantenimiento.
+Permite reutilizar funciones fácilmente.
+Flujo facil de entender.
