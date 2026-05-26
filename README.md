@@ -1,8 +1,8 @@
 # Sistema de registro y evaluación de estudiantes.
 
 ## Integrantes del equipo:
-1.-Rodrigo Díaz Jimenez
-2.-Santiago Martinez Rodriguez
+1.-Rodrigo Díaz Jiménez
+2.-Santiago Martínez Rodríguez
 3.-Aldo Damián Díaz Hernández
 
 ## Aportaciones por integrante
@@ -11,7 +11,7 @@
 - Implementación de pseudocódigo
 - Implementación de diagramas de flujo con mermaid
 
-### Santiago Martinez
+### Santiago Martínez
 - Explicación del problema
 - Diseño de diagramas de flujo
 - Revisión de ortografía
